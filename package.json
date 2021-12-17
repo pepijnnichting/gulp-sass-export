@@ -26,10 +26,11 @@
     "url": "https://github.com/pepijnnichting/gulp-sass-export.git"
   },
   "dependencies": {
+    "gulp-notify": "^4.0.0",
     "sass-export": "^2.1.0",
-    "through2": "^4.0.2"
+    "through2": "^4.0.2",
+    "vinyl": "^2.2.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
